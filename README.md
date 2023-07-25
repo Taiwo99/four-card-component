@@ -1,3 +1,3 @@
 # four-card-component
 card-component
-yo make the mobile screen responsive
+to make the mobile screen responsive
